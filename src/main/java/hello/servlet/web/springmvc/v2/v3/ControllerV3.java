@@ -1,4 +1,4 @@
-package hello.servlet.web.frontcontroller.v3;
+package hello.servlet.web.springmvc.v2.v3;
 
 import hello.servlet.web.frontcontroller.ModelView;
 
